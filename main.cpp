@@ -4,6 +4,6 @@
 
 int main()
 {
-	std::cout << "no test\n";
+	std::cout << "test\n";
 	return 0;
 }
