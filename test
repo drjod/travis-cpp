@@ -20,5 +20,3 @@ t program should print test
 cmp <(./a.out) <(echo test) && pass || fail
 
 echo ALL TESTS PASSED
-
-exit 1
